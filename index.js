@@ -1,3 +1,7 @@
 // import * as Other from "./utils/other.js";
 // import * as Request from "./utils/request.js";
-require("./utils/other.js");
+const Other = require("./utils/other.js");
+const Request = require("./utils/request.js");
+
+exports.Other = Other;
+exports.Request = Request;
