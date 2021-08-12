@@ -1,0 +1,23 @@
+{
+  "name": "jackdaw_helper",
+  "version": "1.0.0",
+  "description": "Tiny helper module for JS developers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/megarohas/jackdaw_helper.git"
+  },
+  "keywords": [
+    "js",
+    "helper"
+  ],
+  "author": "Alexey Galkin (megarohas)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/megarohas/jackdaw_helper/issues"
+  },
+  "homepage": "https://github.com/megarohas/jackdaw_helper#readme"
+}
